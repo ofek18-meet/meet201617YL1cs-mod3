@@ -12,7 +12,7 @@ class UserAccount :
         """
         self.username=username
         self.password=password
-        self.secret=secrt
+        self.secret=secret
         #Complete the __init__ method
 
     def print_secret(self,password_attempt):
